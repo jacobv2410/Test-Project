@@ -1,0 +1,21 @@
+{
+  "name": "Test-Project",
+  "version": "1.0.0",
+  "description": "project testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobv2410/Test-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobv2410/Test-Project/issues"
+  },
+  "homepage": "https://github.com/jacobv2410/Test-Project#readme"
+}
